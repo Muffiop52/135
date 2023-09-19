@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Tilt+Prism&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,700&display=swap');
+
+body {
+          background-size: cover;
+}
+
+.heading {
+          font-size: 40px;
+          background-color: aqua;
+          margin: 0;
+          color: rgb(37, 18, 145);
+          font-family: 'Roboto', sans-serif;
+          font-family: 'Tilt Prism', cursive;
+          font-family: 'Varela Round', sans-serif;
+          outline: 15px solid aqua;
+}
+
+.heading_2 {
+          font-size: 20px;
+          color: rgb(37, 18, 145);
+          font-family: 'Playfair Display', serif;
+}
+
+.object_name
+{
+          font-size: 25px;
+          color: rgb(148, 40, 146);
+}
+
+.input_box
+{
+          width: 50%;
+          height: 30px;
+}
+
+canvas
+{
+          border: 2px solid rgb(7, 161, 161);
+          border-radius: 10px;
+          margin-top: 130px;
+          box-shadow: 5px 5px 5px rgba(15, 85, 29, 0.254);
+}
